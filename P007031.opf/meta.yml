@@ -1,15 +1,16 @@
-id: opecha:P007031
+id: P007031
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20245
   title: བཟོ་རིག་ཕྱོགས་བསྒྲིགས་རི་ཆེན་སྒྲོམ་བུ།
-  volume:
+  author: ''
+  volumes:
     39a5ca2ae8ca46dfbe747edbd13bd55e:
       image_group_id: I8LS20247
       title: Volume 1 of bzo rig phyogs bsgrigs ri chen sgrom bu/
       volume_number: 1
       total_pages: 909
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བཟོ་རིག་ཕྱོགས་བསྒྲིགས་རི་ཆེན་སྒྲོམ་བུ།
   author: ''
